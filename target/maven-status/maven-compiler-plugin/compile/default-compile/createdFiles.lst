@@ -1,0 +1,10 @@
+local\knv\bookstoreweb\model\dao\UserDAO.class
+local\knv\bookstoreweb\model\bean\Book.class
+local\knv\bookstoreweb\model\controller\UserServlet.class
+local\knv\bookstoreweb\model\controller\AutorizaUserFilter.class
+local\knv\bookstoreweb\model\controller\BookServlet.class
+local\knv\bookstoreweb\model\dao\BookDAO.class
+connection\MySQLConnection.class
+local\knv\bookstoreweb\model\controller\BookServlet$SLQException.class
+local\knv\bookstoreweb\model\controller\UserLoginServlet.class
+local\knv\bookstoreweb\model\bean\User.class
